@@ -1,0 +1,11 @@
+{
+  "name": "switch-hack-demo",
+  "version": "1.0.0",
+  "description": "Tiny shop API used as the demo project for the Flip the Switch hackathon",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
